@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: 《自由知識協作平台》主題範本
-Upstream-Contact: Issues · libre-knowledge/subject-template <https://github.com/libre-knowledge/subject-template/issues>
-Source: https://github.com/libre-knowledge/subject-template
+Upstream-Name: 程式語言 Programming languages
+Upstream-Contact: Issues · libre-knowledge/programming-languages <https://github.com/libre-knowledge/programming-languages/issues>
+Source: https://github.com/libre-knowledge/programming-languages
 
 Files:
   *README.md
