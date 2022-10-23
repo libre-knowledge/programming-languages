@@ -30,7 +30,7 @@
 
 ## 解決方案
 
-* Bash
+* [Bash Shell 腳本語言](<Bash Shell 腳本語言/>)
 * C
 * Go
 * Java
