@@ -30,7 +30,13 @@
 
 ## 解決方案
 
-（待補）
+* Bash
+* C
+* Go
+* Java
+* Python
+* Ruby
+* Rust
 
 ## 參考資料
 
